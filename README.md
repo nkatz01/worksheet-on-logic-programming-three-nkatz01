@@ -57,6 +57,7 @@ genius(Person):-
     ```
     sentence?  
     
-    4 times, as explained above that calling genius produces 4 results. 
     
     Justify your answer.
+    
+        4 times, as explained above that calling genius produces 4 results. 
